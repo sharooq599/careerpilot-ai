@@ -23,3 +23,6 @@ backend/*.db
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Local password reset utility
+backend/reset_password.py
